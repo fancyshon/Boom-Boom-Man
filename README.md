@@ -1,5 +1,7 @@
 # Boom-Boom-Man
-This is my first simple java project. This project is a PVP game for 2 players.
+This is my first simple java project. 
+
+This project is a PVP game for 2 players.You have to use your bomb to defeat you opponent.
 
 # How to play
 
